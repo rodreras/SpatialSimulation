@@ -99,6 +99,9 @@ ______
 
 - Digital Elevation Model (DEM): the DEM has a 30m pixel resolution. It was downloaded from TOPODATA, an INPE's plataform for surface models. Using QGIS, it was necessary to perform an altitude subtraction process. From all cells within the river polygon, a subtraction of -3 was perfomed in order to make the river depth more representative. With this process, would then be possible to match the river's overflow quota, making the simulation more realistic.  
 
+![fluxogram](https://user-images.githubusercontent.com/53950449/215608121-bcacffa3-d43a-4a36-93ff-108005bba98d.jpg)
+
+
 ______
 
 ### Building Simulation
