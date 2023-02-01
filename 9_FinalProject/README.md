@@ -18,7 +18,7 @@ _______
 
 4. [Results](#results)
 
-5. [Discussions](#discussions)
+5. [Discussions](#discussion)
 
 6. [Conclusions](#conclusions)
 

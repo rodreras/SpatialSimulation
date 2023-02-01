@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "river",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::31984" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": null, "gridcode": null, "Shape_Leng": null, "Shape_Area": null, "Id_2": 3693, "gridcode_2": 1, "Shape_Leng_2": 8631.6825301499994, "Shape_Area_2": 801281.83747499995, "Id_3": 5652, "gridcode_3": 1, "Shape_Leng_3": 88571.950235299999, "Shape_Area_3": 6219803.7978999997 }, "geometry": null }
+]
+}

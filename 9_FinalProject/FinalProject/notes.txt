@@ -1,0 +1,13 @@
+Cota de Transbordo > 10,40
+
+Vazao Media Historica (1994-2012)> 850m3/s
+Hidroquímica e vazão do Rio Paraíba do Sul em Campos dos
+Goytacazes de 2017 a 2019
+
+
+762.2m³/s de 1922 a 2019 (ANA)
+
+Write in report that is a flooding model and not deflooding. Due to the 
+fact that it was not modeled for that.
+
+try to export the flooded area raster to compare in other GIS.
