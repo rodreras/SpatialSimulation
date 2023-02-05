@@ -149,9 +149,9 @@ Taking into consideration the premise aforementioned, we had the following outpu
 
 |Simulation| Output|
 |-----|-----|
-|Scenario| 1 |
-|Scenario| 2 |
-|Scenario| 3|
+|Mean| ![image](https://user-images.githubusercontent.com/53950449/216840373-1d914d2f-1a3c-4d10-9122-7587c1e82df9.png)|
+|Mean + 1 std| ![image](https://user-images.githubusercontent.com/53950449/216840382-d54756d5-cc7e-4f42-bee5-39d5ad8e2a9d.png)|
+|Mean - 1 std| ![image](https://user-images.githubusercontent.com/53950449/216840396-c5db9c8f-24f6-44db-b78b-1a88bb7db223.png)|
 
 The water input cells kept flooding the river channel constantly. All water flow that was not heading to the main channel, would then go to the flat lands nearby - located in the upper-left and lower-left parts of the simulation. 
 
@@ -171,18 +171,21 @@ Even though this flaw exists, there are a few interesting points that are worth 
 
 - Comparing with water occurrence probability (Pekel et al., 2016), the model shows satisfactory results, with a near-the-reality scenario. The river's main channel, the lakes, and flooded areas have been properly flooded in the simulation
 
-|Model | Pekel et al., 2016 |
+|Model Mean | Pekel et al., 2016 |
 |------|--------------------|
-| Img  |          Img       |
+|  ![image](https://user-images.githubusercontent.com/53950449/216840373-1d914d2f-1a3c-4d10-9122-7587c1e82df9.png) |          ![image](https://user-images.githubusercontent.com/53950449/216840439-795ef57e-00a9-48a0-8d7d-b33dc061d0f7.png)|
 
 
 - The GIF below, produced in the MapBiomas Platform (Souza et al., 2020) shows the evolution of the amount of water in water bodies for the Campos dos Goytacazes area. It is possible to see there are wet and dry seasons, evidenced by the amount of water present in the lakes, flood plains, and also in the river. 
 
+![WaterEvolution_1985-2022](https://user-images.githubusercontent.com/53950449/216840463-fb4d064b-33e1-413f-8e24-87f564556596.gif)
+
+
 - Now, comparing the average from 1985 to 2022 of water occurrence with the flood simulation, once again, the results are quite acceptable. Except for the super-flooded area in the SW and NW parts of the city, the whole flooded cells are quite related to each other.
 
-|Model | Souza et al., 2020 |
+|Model Mean | Souza et al., 2020 |
 |------|--------------------|
-| Img  |          Img       |
+|  ![image](https://user-images.githubusercontent.com/53950449/216840373-1d914d2f-1a3c-4d10-9122-7587c1e82df9.png) | ![image](https://user-images.githubusercontent.com/53950449/216840808-9059c968-05c4-4155-9457-8db5e7e0ed75.png)|
 
 _____
 
