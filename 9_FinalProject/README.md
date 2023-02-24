@@ -2,7 +2,7 @@
 
 ## Flooding Simulation in Campos dos Goytacazes, Rio de Janeiro, Brazil.
 
-[Rodrigo Brust Santos](rodrigobrust.com)
+[Rodrigo Brust Santos](https://rodrigobrust.com/)
 
 [Prof. Gudrun Wallentin](https://www.plus.ac.at/geoinformatik/fachbereich/team/wallentin/)
 
